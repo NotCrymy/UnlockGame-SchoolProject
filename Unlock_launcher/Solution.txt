@@ -1,0 +1,13 @@
+Solution du jeux : 
+
+révélé la note du capitaine (carte 10)
+révélé aussi tout les pistons de la salle des machines et la porte (carte 5 à 9)
+le code de la porte est 16 (à rentrer sur l'application)
+révélé la salle du labo
+révélé toutes les cartes de la salle du labo (cartes 13 à 15)
+verser les fioles dans le bocal en verre (rentrer 18 sur l'application)
+révélé la porte (carte 17)
+mettres les deux artefacts dans la porte (rentrer 49 sur l'application)
+clické sur le premier levier sur l'application
+
+FIN 
